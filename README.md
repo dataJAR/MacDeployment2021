@@ -38,5 +38,9 @@ sudo diskutil ap updatePreboot /
 ## Firmware Passwords
  - [Set a firmware password on your Mac](https://support.apple.com/en-gb/HT204455)
 
+## Volume Ownership
+- [LocalPolicy signing-key creation and management)(https://support.apple.com/en-gb/guide/security/sec1f90fbad1/web)
+- [Contents of a LocalPolicy file for a Mac with Apple silicon](https://support.apple.com/en-gb/guide/security/secc745a0845/web)
+
 ## Mac Sharing Mode
 - [Transfer files between a Mac with Apple silicon and another Mac](https://support.apple.com/en-gb/guide/mac-help/mchlb37e8ca7/mac)
