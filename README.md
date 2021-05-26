@@ -19,6 +19,16 @@ Repo for links from the MacDevOpsYVR 2021 talk "Administering Apple Silicon"
 - [Platform Support in macOS Installer Packages (pkg)](https://scriptingosx.com/2020/12/platform-support-in-macos-installer-packages-pkg/)
 - [Installing Rosetta 2 on Apple Silicon Macs](https://derflounder.wordpress.com/2020/11/17/installing-rosetta-2-on-apple-silicon-macs/)
 
+## Unified Login
+Commands to toggle FV2 login screen, `true` to show username and password, `false` to show list of users. Changes should show on restart:
+```
+sudo defaults write /Library/Preferences/com.apple.loginwindow SHOWFULLNAME -bool true
+
+sudo diskutil ap updatePreboot /
+```
+
+- [FileVault login screen differences between Intel and Apple Silicon Macs](https://derflounder.wordpress.com/2021/01/17/filevault-login-screen-differences-between-intel-and-apple-silicon-macs/)
+
 ## Apple Configurator 2
 - [Revive or restore a Mac with Apple silicon with Apple Configurator 2](https://support.apple.com/en-gb/guide/apple-configurator-2/apdd5f3c75ad/mac)
 
