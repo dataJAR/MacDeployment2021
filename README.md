@@ -4,6 +4,14 @@ Repo for links from the MacDevOpsYVR 2021 talk "Administering Apple Silicon"
 ## macOS Big Sur and Apple Silicon
 - [macOS Big Sur and Apple Silicon](https://datajar.co.uk/datajar-tech-series-whats-new-with-macos-big-sur-and-apple-silicon/)
 
+## Serial Number Format Changes
+- [Apple Plans to Switch to Randomized Serial Numbers for Future Products Starting in 2021](https://www.macrumors.com/2020/01/06/apple-randomized-serial-numbers-late-2020/)
+- [Apple Tweaks Serial Number Format With New MacBook Pro](https://www.macrumors.com/2010/04/16/apple-tweaks-serial-number-format-with-new-macbook-pro/)
+- [MDM Me Maybe: Device Enrollment Program Security](https://duo.com/labs/research/mdm-me-maybe)
+
+## iOS and iPadOS Apps
+- [iOS and iPadOS Apps](https://developer.apple.com/macos/iphone-and-ipad-apps/)
+
 ## Rosetta 2
 - [If you need to install Rosetta on your Mac](https://support.apple.com/en-gb/HT211861)
 - [Do Adobe apps work on Apple computers that use the M1 chip?](https://helpx.adobe.com/download-install/kb/apple-silicon-m1-chip.html)
@@ -11,9 +19,12 @@ Repo for links from the MacDevOpsYVR 2021 talk "Administering Apple Silicon"
 - [Platform Support in macOS Installer Packages (pkg)](https://scriptingosx.com/2020/12/platform-support-in-macos-installer-packages-pkg/)
 - [Installing Rosetta 2 on Apple Silicon Macs](https://derflounder.wordpress.com/2020/11/17/installing-rosetta-2-on-apple-silicon-macs/)
 
+## Apple Configurator 2
+- [Revive or restore a Mac with Apple silicon with Apple Configurator 2](https://support.apple.com/en-gb/guide/apple-configurator-2/apdd5f3c75ad/mac)
+
 ## Mac Sharing Mode
 - [Transfer files between a Mac with Apple silicon and another Mac](https://support.apple.com/en-gb/guide/mac-help/mchlb37e8ca7/mac)
 
 ## Recovery
+- [Boot modes for a Mac with Apple silicon](https://support.apple.com/en-gb/guide/security/sec10869885b/web)
 - [Use macOS Recovery on a Mac with Apple silicon](https://support.apple.com/en-gb/guide/mac-help/mchl82829c17/mac)
-- 
