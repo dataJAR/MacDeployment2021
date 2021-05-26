@@ -25,6 +25,6 @@ Repo for links from the MacDevOpsYVR 2021 talk "Administering Apple Silicon"
 ## Mac Sharing Mode
 - [Transfer files between a Mac with Apple silicon and another Mac](https://support.apple.com/en-gb/guide/mac-help/mchlb37e8ca7/mac)
 
-## Recovery
+## madcOS Recovery
 - [Boot modes for a Mac with Apple silicon](https://support.apple.com/en-gb/guide/security/sec10869885b/web)
 - [Use macOS Recovery on a Mac with Apple silicon](https://support.apple.com/en-gb/guide/mac-help/mchl82829c17/mac)
