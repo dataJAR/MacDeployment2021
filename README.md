@@ -14,10 +14,10 @@ Repo for links from the MacDevOpsYVR 2021 talk "Administering Apple Silicon"
 
 ## Rosetta 2
 - [If you need to install Rosetta on your Mac](https://support.apple.com/en-gb/HT211861)
+- [Installing Rosetta 2 on Apple Silicon Macs](https://derflounder.wordpress.com/2020/11/17/installing-rosetta-2-on-apple-silicon-macs/)
 - [Do Adobe apps work on Apple computers that use the M1 chip?](https://helpx.adobe.com/download-install/kb/apple-silicon-m1-chip.html)
 - [Deploy Adobe Applications to Apple Silicon Devices](https://dazwallace.wordpress.com/2021/02/06/deploy-adobe-applications-to-apple-silicon-devices/)
 - [Platform Support in macOS Installer Packages (pkg)](https://scriptingosx.com/2020/12/platform-support-in-macos-installer-packages-pkg/)
-- [Installing Rosetta 2 on Apple Silicon Macs](https://derflounder.wordpress.com/2020/11/17/installing-rosetta-2-on-apple-silicon-macs/)
 
 ## Apple Configurator 2
 - [Revive or restore a Mac with Apple silicon with Apple Configurator 2](https://support.apple.com/en-gb/guide/apple-configurator-2/apdd5f3c75ad/mac)
