@@ -42,5 +42,16 @@ sudo diskutil ap updatePreboot /
 - [LocalPolicy signing-key creation and management](https://support.apple.com/en-gb/guide/security/sec1f90fbad1/web)
 - [Contents of a LocalPolicy file for a Mac with Apple silicon](https://support.apple.com/en-gb/guide/security/secc745a0845/web)
 
+## Startup Security Policy
+- [Startup security in macOS](https://support.apple.com/en-gb/guide/deployment-reference-macos/ior2b1833593/web)
+
+## System Extensions
+- [Kernel extensions in macOS](https://support.apple.com/en-gb/guide/deployment-reference-macos/apd37565d329/web)
+- [Enterprise management of legacy system extensions in macOS Big Sur](https://support.apple.com/en-gb/HT211860)
+- [Manage Legacy Kernel Extensions in macOS 11 Using Jamf Pro](https://www.jamf.com/jamf-nation/articles/793/manage-legacy-kernel-extensions-in-macos-11-using-jamf-pro)
+
+## External Startup Disks
+- [M1 Macs running Big Sur 11.4 support external disks fully](https://eclecticlight.co/2021/05/27/m1-macs-running-big-sur-11-4-support-external-disks-fully/)
+
 ## Mac Sharing Mode
 - [Transfer files between a Mac with Apple silicon and another Mac](https://support.apple.com/en-gb/guide/mac-help/mchlb37e8ca7/mac)
