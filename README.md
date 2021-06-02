@@ -1,5 +1,5 @@
 # MacDeployment2021
-Repo for links from the MacDevOpsYVR 2021 talk "Administering Apple Silicon"
+Repo for links from the MacDeployment 2021 talk "Administering Apple Silicon"
 
 ## macOS Big Sur and Apple Silicon
 - [macOS Big Sur and Apple Silicon](https://datajar.co.uk/datajar-tech-series-whats-new-with-macos-big-sur-and-apple-silicon/)
